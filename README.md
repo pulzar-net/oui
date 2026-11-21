@@ -11,7 +11,7 @@ A locally administered address (bit 0x02 of the first byte, as most phones and
 laptops use now) has no vendor and needs no fetch. `lookup.mjs` is the
 reference; `build.py` makes the files.
 
-    https://pulzar-net.github.io/oui/v1/meta.json
-    https://pulzar-net.github.io/oui/v1/3C5A.json
+    https://oss.pulzr.net/oui/v1/meta.json
+    https://oss.pulzr.net/oui/v1/3C5A.json
 
 The data is the IEEE's; this repository only reshapes it.

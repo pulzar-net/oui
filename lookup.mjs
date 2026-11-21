@@ -5,7 +5,7 @@
 //
 // `fetchJson(path)` returns the parsed file at BASE + path, or null on 404.
 
-export const BASE = 'https://pulzar-net.github.io/oui/';
+export const BASE = 'https://oss.pulzr.net/oui/';
 
 /** The MAC as 12 uppercase hex digits, or null. */
 export function hex(mac) {
